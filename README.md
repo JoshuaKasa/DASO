@@ -1,13 +1,13 @@
-# DASO
+<h1 style="display: inline-block; vertical-align: middle;">DASO</h1>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="7%" style="display: inline-block; vertical-align: middle; padding-right: 10px;" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="7%" style="display: inline-block; vertical-align: middle; padding-right: 10px;" alt="Bash">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="7%" style="display: inline-block; vertical-align: middle; padding-right: 10px;" alt="Windows">
 
 **DASO is a simple tool for listening to music from YouTube directly from the terminal.**
 
 <div align="center">
   <img src="img/porcodio_2.png" alt="Your Image Description">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="12%" style="padding-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="12%" style="padding-right:10px;">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="12%" style="padding-right:10px;">
 </div>
 
 
@@ -48,4 +48,4 @@ If you want to contribute to DASO, you can do so by opening a pull request. I'm 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
