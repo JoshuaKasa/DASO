@@ -59,7 +59,7 @@ daso never gonna give you up
 
 DASO uses the YouTube API to search for the song you want to listen to, so you can use any name you want, as long as it exists on YouTube. Remember tho, to provide a name, else you will get an error.
 
-### Keybinds
+### 🎹 Keybinds
 
 DASO has some keybinds that you can use to control it while it's running. Here's a list of them:
 
