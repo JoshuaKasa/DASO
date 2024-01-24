@@ -6,18 +6,6 @@
   <strong>DASO - Stream music from YouTube directly from your terminal.</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/JoshuaKasa/DASO/releases">
-    <img src="https://img.shields.io/github/v/release/JoshuaKasa/DASO" alt="GitHub release (latest by date)">
-  </a>
-  <a href="https://github.com/JoshuaKasa/DASO/issues">
-    <img src="https://img.shields.io/github/issues/JoshuaKasa/DASO" alt="GitHub issues">
-  </a>
-  <a href="https://github.com/JoshuaKasa/DASO/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/JoshuaKasa/DASO" alt="License">
-  </a>
-</p>
-
 <div align="center">
   <img src="img/porcodio_2.png" alt="DASO Interface Screenshot">
 </div>
@@ -45,7 +33,7 @@ DASO is easy to install with its dedicated installer for Windows. Follow these s
 
 ## 🎵 Usage
 
-The DASO installer makes it so that you can run DASO from anywhere in your terminal. Basically, it adds a new command to your terminal, `daso`, which you can use to run like this:
+The DASO installer makes it so that you can run it from anywhere in your terminal. Basically, it adds a new command to your terminal, `daso`, which you can use to run like this:
 
 ```bash
 daso [song name]
@@ -74,11 +62,11 @@ DASO has some keybinds that you can use to control it while it's running. Here's
 
 ## ❗ Important
 
-The neat thing about DASO is that it doesn't download the song you want to listen to, it just streams it from YouTube. Another important note is that you can't listen to Lives _for now_, I'm trying to figure out how to do it, if someone knows how to, you can [contribute](#contributing)!
+The neat thing about DASO is that it doesn't download the song you want to listen to, it just streams it from YouTube. Another important note is that you can't listen to Lives _for now_, I'm currently figuring out how to implement this feature. If you know how to, please feel free to [contribute](#contributing)!
 
 ## 🤝 Contributing
 
-If you want to contribute to DASO, you can do so by opening a pull request. I'm open to any kind of contribution, documentation, code, tests, suggestions, etc... Other than that, you can also open an issue if you find a bug or if you have a suggestion, I'll try to answer as soon as possible.
+I welcome all types of contributions, including documentation, code, tests, suggestions, etc.... Other than that, you can also open an issue if you find a bug or if you have a suggestion, I'll try to answer as soon as possible.
 
 ## 📝 License
 
