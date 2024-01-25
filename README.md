@@ -26,7 +26,7 @@ DASO is easy to install with its dedicated installer for Windows. Follow these s
 1. **Choose Your Installer**:
    - `daso_installer_no_python.bat`: If you already have Python installed.
    - `daso_installer_python.bat`: If you don't have Python. [Install Python here](https://www.python.org/downloads/) in case it doesn't work.
-2. **Run the Installer**: Double-click the chosen .bat file in the main folder.
+2. **Run the Installer**: Double-click the chosen .bat file in the main folder. Follow the instructions.
 3. **Installation Complete**: DASO is now ready to use!
 
 > 📝 **Note**: Currently, DASO is not available for Linux or Mac. There are no plans for these platforms at the moment.

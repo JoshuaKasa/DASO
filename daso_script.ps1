@@ -23,4 +23,9 @@ if (-not ($envPath.Split(';') -contains $srcPath)) {
     Write-Output "The directory is already in your system PATH."
 }
 
+# Prompt the user to download VLC
+Write-Output "To complete the installation, please download VLC Media Player."
+$vlcDownloadUrl = "https://www.videolan.org/vlc/download-windows.html"
+Start-Process "chrome.exe" $vlcDownloadUrl # This opens the URL in Google Chrome. You can change the browser if needed.
+
 Read-Host -Prompt "Press Enter to exit setup..." # Wait for user input before closing the window
