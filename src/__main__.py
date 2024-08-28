@@ -76,8 +76,8 @@ def main(arg: str) -> None:
 
     try:
         DASO.stream_youtube_audio(url)
-    except:
-        print('This video requires login.')
+    except Exception as e:
+        print(f'An error occurred while trying to play the audio, {e}')
 
 if __name__ == '__main__':
     argument = ' '.join(sys.argv[1:]) # Get the arguments passed to the program
